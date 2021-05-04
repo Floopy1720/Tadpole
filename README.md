@@ -1,2 +1,7 @@
 # Tadpole
-My Frist game
+
+Tadpole game prototype
+
+# Depencies
+
+pygame
